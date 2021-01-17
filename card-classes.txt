@@ -1,0 +1,11 @@
+.card
+.card-img-top
+.card-img
+.card-header
+.card-bpdy
+.card-footer
+.card-title
+.card-text
+.card-link
+.card-img-overlay
+.card-coloums
